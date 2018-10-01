@@ -49,3 +49,19 @@ footer.mdl-mini-footer > ul{
     display:flex;
   }
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  color: black;
+  width: 140px;
+}
+
+.navigation li {
+  display: block;
+  float:left;
+  padding: 8px 16px;
+  background-color: hsla(100, 100%, 100%, .5);
+  width: 80px;
+}
